@@ -1,1 +1,2 @@
-"HELLO WORLD" modified version
+"HELLO WORLD" modified version after deleting file1.txt
+
